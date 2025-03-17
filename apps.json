@@ -1,0 +1,36 @@
+{
+  "apps": [
+    {
+      "id": "photopea",
+      "name": "Photopea",
+      "version": "1.0.0",
+      "icon": "apps/photopea/icon.png",
+      "entry": "index.html",
+      "permissions": ["clipboard_read"]
+    },
+    {
+      "id": "utorrent",
+      "name": "uTorrent",
+      "version": "1.0.0",
+      "icon": "apps/utorrent/icon.png",
+      "entry": "index.html",
+      "permissions": ["clipboard_read"]
+    },
+    {
+      "id": "emulator",
+      "name": "Virtual Desktops",
+      "version": "1.0.0",
+      "icon": "apps/emulator/icon.png",
+      "entry": "index.html",
+      "permissions": ["pointer_lock"]
+    },
+    {
+      "id": "eaglercraft",
+      "name": "Eaglercraft",
+      "version": "1.0.0",
+      "icon": "apps/eaglercraft/icon.png",
+      "entry": "index.html",
+      "permissions": ["pointer_lock"]
+    }
+  ]
+}
