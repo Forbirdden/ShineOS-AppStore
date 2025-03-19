@@ -1,6 +1,0 @@
-{
-  "name": "Virtual Desktops",
-  "description": "Powerful OS emulator",
-  "author": "ShineOS Community",
-  "sandbox": "allow-scripts allow-same-origin"
-}
