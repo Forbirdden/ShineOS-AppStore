@@ -1,6 +1,6 @@
 {
-    "id": "Eaglercraft",
-    "name": "Minecraft-like game",
-    "entry": "index.html",
+    "id": "eaglercraft",
+    "name": "Eaglercraft",
+    "entry": "https://eaglercraft.com/mc/1.8.8/",
     "icon": "icon.png"
 }
