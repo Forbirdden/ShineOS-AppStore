@@ -5,7 +5,7 @@
       "name": "Photopea",
       "version": "1.0.0",
       "icon": "apps/photopea/icon.png",
-      "entry": "index.html",
+      "entry": "https://www.photopea.com/",
       "permissions": ["clipboard_read"]
     },
     {
