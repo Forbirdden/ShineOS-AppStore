@@ -1,0 +1,6 @@
+{
+    "id": "Eaglercraft",
+    "name": "Minecraft-like game",
+    "entry": "index.html",
+    "icon": "icon.png"
+}
