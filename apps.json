@@ -27,7 +27,7 @@
     {
       "id": "eaglercraft",
       "name": "Eaglercraft",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "icon": "apps/eaglercraft/icon.png",
       "entry": "https://eaglercraft.com/mc/1.8.8/",
       "permissions": ["pointer_lock"]
