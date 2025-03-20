@@ -19,7 +19,7 @@
     {
       "id": "emulator",
       "name": "Virtual Desktops",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "icon": "apps/emulator/icon.png",
       "entry": "index.html",
       "permissions": ["pointer_lock"]
